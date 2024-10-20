@@ -6,10 +6,10 @@ The primary objective of this project is to analyze and visualize the ICC Men’
 
 # Datasets
 We utilize two key datasets for this analysis:
-# 1. Matches Dataset:
+### 1. Matches Dataset:
   * matches.csv
   * Description: This dataset contains information about each match, including match details, venue, teams, outcome, and more.
-# 2. Deliveries Dataset:
+### 2. Deliveries Dataset:
   * deliveries.csv
   * Description: This dataset provides ball-by-ball details of the matches, offering granular insights into player performances and match dynamics.
 
